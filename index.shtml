@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Nelson Padua-Perez Render Site</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h1>Render Static Site</h1>
+  <ul>
+		  <li><strong>Name: </strong>Nelson Padua-Perez</li>
+		  <li><strong>GitHub Location: </strong><a href="https://github.com/NelsonPaduaPerez/nelsonstaticsite">https://github.com/NelsonPaduaPerez/nelsonstaticsite</a></li>
+		  <li><strong>Terpconnect Location: </strong><a href="https://terc">https://nelsonpterp.onrender.com/</a></li>
+  </ul>
+
+</body>
+
+</html>
